@@ -1,8 +1,8 @@
 # Holla esteemed Devs 👋
 Legal Advisory|. 
 PROJECT Manager | 
-Discord Security Expert 
-Help setup - your GitHub profile.
+Discord Security Expert|
+I Help setup - your GitHub profile.
 - 🔭 I’m currently working on Web3 Communities
 - 🌱 I’m currently learning Investment Management
 - 👯 I’m looking to collaborate on Different Community-based Project 
